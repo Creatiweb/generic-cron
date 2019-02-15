@@ -1,4 +1,4 @@
-#Basic k8s sidecar cron containder
+#Basic k8s sidecar cron container
 
 ## Example usage
 
